@@ -1,1 +1,307 @@
 hi
+
+
+
+Ajay PC@Ajay-Desktop MINGW64 ~
+$ cd poojaworkfolder/
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder
+$ cd java/
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java
+$ ls
+hello.java
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java
+$ git init
+Initialized empty Git repository in C:/Users/ThisPc/poojaworkfolder/java/.git/
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git --version
+git version 2.28.0.windows.1
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        demo.txt
+        hello.java
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git add demo.txt
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   demo.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.java
+
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git commit -m "soe message"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Ajay PC@Ajay-Desktop.(none)')
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git config --global user.name "poojakukreti54"
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git config --global user.name "poojakukreti54@gmail.com"
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git config --global user.name "poojakukreti54"
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git config --global user.email "poojakukreti54@gmail.com"
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git commit -m "some message"
+[master (root-commit) cadf33b] some message
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 demo.txt
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+user.name=poojakukreti54
+user.email=poojakukreti54@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git add demo.txt
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   demo.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.java
+
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git commit -m "done some msg"
+[master a75bbcf] done some msg
+ 1 file changed, 3 insertions(+)
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.java
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git satus
+git: 'satus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   demo.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        demo2.txt
+        hello.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git add demo.txt
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   demo.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        demo2.txt
+        hello.java
+
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git commit -m "another some msg"
+[master b0a0507] another some msg
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        demo2.txt
+        hello.java
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git add demo2.txt
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   demo2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.java
+
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git commit -m "one more msg"
+[master fec0801] one more msg
+ 1 file changed, 1 insertion(+)
+ create mode 100644 demo2.txt
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.java
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git add .
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   hello.java
+
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git commit -m "new file creatd"
+[master e8355ce] new file creatd
+ 1 file changed, 7 insertions(+)
+ create mode 100644 hello.java
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git remote add origin https://github.com/poojakukreti54/java_oops.git
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/poojakukreti54/java_oops.git'
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git remote add origin https://github.com/poojakukreti54/java_oops.git
+fatal: remote origin already exists.
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin HEAD
+Logon failed, use ctrl+c to cancel basic credential prompt.
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/poojakukreti54/java_oops.git/'
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin HEAD
+Logon failed, use ctrl+c to cancel basic credential prompt.
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git remote add origin https://github.com/poojakukreti54/java_oops.git
+fatal: remote origin already exists.
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin HEAD
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git remote add origin https://github.com/poojakukreti54/java_oops.git
+fatal: remote origin already exists.
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin HEAD
+Logon failed, use ctrl+c to cancel basic credential prompt.
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/poojakukreti54/java_oops.git/'
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git remote add origin https://github.com/poojakukreti54/java_oops.git
+fatal: remote origin already exists.
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin HEAD
+Logon failed, use ctrl+c to cancel basic credential prompt.
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/poojakukreti54/java_oops.git/'
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git remote add origin https://github.com/poojakukreti54/java_oops.git
+fatal: remote origin already exists.
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ git push -u origin HEAD
+Logon failed, use ctrl+c to cancel basic credential prompt.
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/poojakukreti54/java_oops.git/'
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$ ^C
+
+Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
+$
