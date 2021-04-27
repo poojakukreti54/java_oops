@@ -1,6 +1,2862 @@
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes sir
+from acharyapartho to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+they used  java.util.stream please yes
+from Ashish Prakash Idhol to All Participants:
+ok sir 
+from Jagrut Goenka to All Participants:
+yes sir
+from SAURABH KAWATRA to All Attendees:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from acharyapartho to All Participants:
+yeds sir
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Dipali Patil to All Participants:
+ye
+from Jeevanantham M to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+Yes
+from mailmevinaya to All Participants:
+thru network mean?
+from mailmevinaya to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from shaibaz Mohammad to All Participants:
+yes
+from mailmevinaya to All Participants:
+what do you mean reference here?
+from mailmevinaya to All Participants:
+ok
+from poojakukreti406 to All Participants:
+is it character wise or byte wise?
+from poojakukreti406 to All Participants:
+ok sir.
+from mailmevinaya to All Participants:
+theseareall predefined?
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+Yes
+from Jagrut Goenka to All Participants:
+ yes
+from SAURABH KAWATRA to All Participants:
+Are all these classes before Java 8?
+from sardayash8308 to All Participants:
+PrintStream ps = new PrintStream;
+from SAURABH KAWATRA to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+Sir how to see all these classes code?
+from SAURABH KAWATRA to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+Io exception
+from mailmevinaya to All Participants:
+io
+from Raja Rajeswari Jayachandran to All Participants:
+IOException
+from poojakukreti406 to All Participants:
+ioexception
+from Jeevanantham M to All Participants:
+io
+from Raja Rajeswari Jayachandran to All Participants:
+try catch
+from SAURABH KAWATRA to All Participants:
+try catch
+from poojakukreti406 to All Participants:
+try catch
+from Raja Rajeswari Jayachandran to All Participants:
+or throws
+from Anurag Kumar to All Participants:
+try
+from Jagrut Goenka to All Participants:
+try catch
+from Jeevanantham M to All Participants:
+try catch
+from Jagrut Goenka to All Participants:
+throws
+from Jagruti Sisodiya to All Participants:
+try catch
+from SAURABH KAWATRA to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+throws
+from mailmevinaya to All Participants:
+throws
+from Anurag Kumar to All Participants:
+jvm
+from poojakukreti406 to All Participants:
+methid
+from shimpibhushan6  to All Participants:
+main
+from Raja Rajeswari Jayachandran to All Participants:
+JVM
+from Anurag Kumar to All Participants:
+jvm
+from Ashish Prakash Idhol to All Participants:
+jvm
+from Dipali Patil to All Participants:
+jvm
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from Jeevanantham M to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+Yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Shubham Kumar to All Participants:
+yes
+from sardayash8308 to All Participants:
+line 10 is not clear?
+from mailmevinaya to All Participants:
+i did nt understand line 12
+from sardayash8308 to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+just like we use in Scanner input
+from sardayash8308 to All Participants:
+Then Scanner inherits InputStream?
+from poojakukreti406 to All Participants:
+why readline generates exception?
+from KULWINDER singh JASPAL to All Participants:
+ok
+from Debasish pujapanda to All Participants:
+why we write exception
+from mailmevinaya to All Participants:
+so you arecalling object in line 12?
+from poojakukreti406 to All Participants:
+ok. thanks sir
+from Durga Prasad Gutti to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from mailmevinaya to All Participants:
+so you arecalling object in line 12?
+from mailmevinaya to All Participants:
+ok thx
+from SAURABH KAWATRA to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Jeevanantham M to All Participants:
+yes
+from sardayash8308 to All Participants:
+what are other propeties than system.in and system.out?
+from SAURABH KAWATRA to All Participants:
+sir please tell a program with char wise
+from SAURABH KAWATRA to All Participants:
+ok sir!
+from Raja Rajeswari Jayachandran to All Participants:
+inputstream
+from Anurag Kumar to All Participants:
+input Stream
+from JIJI KOSHY to All Participants:
+inputstream
+from Durga Prasad Gutti to All Participants:
+inputstream
+from Anurag Kumar to All Participants:
+output stream
+from Durga Prasad Gutti to All Participants:
+rintsteram
+from Naveen P to All Participants:
+output 
+from Anurag Kumar to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+yes
+from Naveen P to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from shimpibhushan6  to All Participants:
+Yes
+from Durga Prasad Gutti to All Participants:
+InputStreamReader
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Anurag Kumar to All Participants:
+clr
+from Santhosh Gupta to All Participants:
+clear
+from Durga Prasad Gutti to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Naveen P to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from mailmevinaya to All Participants:
+sir this ' DataInputStream" is a syntax?
+from mailmevinaya to All Participants:
+ok
+from KULWINDER singh JASPAL to All Participants:
+where will this file be saved - abc.txt
+from poojakukreti406 to All Participants:
+not understood 13
+from shimpibhushan6  to All Participants:
+will it store for each character we enter
+from shimpibhushan6  to All Participants:
+ok
+from Santhosh Gupta to All Participants:
+in  place of '@' , can we write equivalent ascii number sir? 
+from Santhosh Gupta to All Participants:
+ok sir
+from Anurag Kumar to All Participants:
+if we enter email address then file will not write?
+from Durga Prasad Gutti to All Participants:
+@
+from mailmevinaya to All Participants:
+till @
+from Anurag Kumar to All Participants:
+ok
+from Anurag Kumar to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from poojakukreti406 to All Participants:
+ok
+from sardayash8308 to All Participants:
+why ch=dis.read() does not give error as ch is int and we are giviing input string?
+from mailmevinaya to All Participants:
+sir sorry i still have doubt on 9 and 10
+from sardayash8308 to All Participants:
+yes
+from mailmevinaya to All Participants:
+what is dis and fos
+from Debasish pujapanda to All Participants:
+line 10 ??
+from mailmevinaya to All Participants:
+its like object?
+from sardayash8308 to All Participants:
+so it means it is convertying each character into ascii value and then again into char while comparing?
+from Anurag Kumar to All Participants:
+65
+from sardayash8308 to All Participants:
+65
+from JIJI KOSHY to All Participants:
+65
+from pooja05 to All Participants:
+65
+from Debasish pujapanda to All Participants:
+65
+from Anurag Kumar to All Participants:
+ok
+from Anurag Kumar to All Participants:
+clr
+from JIJI KOSHY to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+Yes
+from sardayash8308 to All Participants:
+"@" will give error with double semicolon?
+from sardayash8308 to All Participants:
+ok
+from mailmevinaya to All Participants:
+what is /n
+from sardayash8308 to All Participants:
+so it will only compare char not whole string
+from mailmevinaya to All Participants:
+ok
+from arun kumar bharti to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Jeevanantham M to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from gagan7876@gmail.com to All Participants:
+yes
+from shimpibhushan6  to All Participants:
+Yes
+from Ashish Prakash Idhol to All Participants:
+why do use type casting? not getting
+from Anurag Kumar to All Participants:
+why we use file ouptut stream as we are writing which is input
+from sardayash8308 to All Participants:
+could we write DataInputStream dis = System.in like we had done for PrintStream pis = System.out?
+from Anurag Kumar to All Participants:
+writing in a file is input
+from mailmevinaya to All Participants:
+ok in abc.txt the coversion is automatic
+from Anurag Kumar to All Participants:
+and we are using file output stream
+from Ashish Prakash Idhol to All Participants:
+in file we get charachetr only not currensponding value ascii?
+from Anurag Kumar to All Participants:
+oh
+from Anurag Kumar to All Participants:
+okay
+from Raja Rajeswari Jayachandran to All Participants:
+Everytime it creates a new file?
+from Ashish Prakash Idhol to All Participants:
+ok thank u
+from Raja Rajeswari Jayachandran to All Participants:
+ok
+from Raja Rajeswari Jayachandran to All Participants:
+thank u
+from Daniel Malkowski to All Participants:
+ could you write the definition of byte wise in notes please ? 
+from Jagruti Sisodiya to All Participants:
+we can create multiple file through this class
+from Jagruti Sisodiya to All Participants:
+ok
+from Daniel Malkowski to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+sorry one question
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+if I missed it
+from KULWINDER singh JASPAL to All Participants:
+i am getting some weird numbers  - 97, 101 etc after writing
+from KULWINDER singh JASPAL to All Participants:
+Console
+from Santhosh Gupta to All Participants:
+type cast
+from KULWINDER singh JASPAL to All Participants:
+are these the locations
+from KULWINDER singh JASPAL to All Participants:
+ok
+from KULWINDER singh JASPAL to All Participants:
+ok, thats it
+from KULWINDER singh JASPAL to All Participants:
+its clear now
+from Jagruti Sisodiya to All Participants:
+ FileInputStream class
+from Raja Rajeswari Jayachandran to All Participants:
+FileInputStream
+from arun kumar bharti to All Participants:
+file readeer
+from Pushpa Deshpande to All Participants:
+FileInput
+from sardayash8308 to All Participants:
+FileInput
+from KULWINDER singh JASPAL to All Participants:
+Filereader
+from Jagrut Goenka to All Participants:
+file input stream
+from pooja05 to All Participants:
+FileInputStream
+from Raja Rajeswari Jayachandran to All Participants:
+D
+from Durga Prasad Gutti to All Participants:
+yyes
+from Neelmani Verma to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+same
+from Neelmani Verma to All Participants:
+diiff
+from acharyapartho to All Participants:
+different
+from Raja Rajeswari Jayachandran to All Participants:
+diff
+from Jeevanantham M to All Participants:
+same
+from JIJI KOSHY to All Participants:
+diff
+from arun kumar bharti to All Participants:
+show both
+from KULWINDER singh JASPAL to All Participants:
+same file
+from mailmevinaya to All Participants:
+if input coming from a screen ? what do we use..sane as keyboard?
+from sardayash8308 to All Participants:
+what if abc.txt not exist?
+from mailmevinaya to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+ok
+from sardayash8308 to All Participants:
+so we have to handle exception
+from Jeevanantham M to All Participants:
+ok
+from pooja05 to All Participants:
+eof
+from Anurag Kumar to All Participants:
+eof
+from sharathadm97@gmail.com to All Participants:
+ eof
+from sardayash8308 to All Participants:
+end 
+from Jagrut Goenka to All Participants:
+end
+from acharyapartho to All Participants:
+eof
+from mailmevinaya to All Participants:
+end of file
+from Durga Prasad Gutti to All Participants:
+k
+from sardayash8308 to All Participants:
+could we print the data of file input stream on console?
+from Anurag Kumar to All Participants:
+but -1 could be there in file... how to each the end of file then?
+from mailmevinaya to All Participants:
+so what if the file it self has -1 value?
+from Anurag Kumar to All Participants:
+ok
+from Anurag Kumar to All Participants:
+-1 is the ascii code
+from Debasish pujapanda to All Participants:
+if w write randomly -2 is it error ??
+from Anurag Kumar to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from mailmevinaya to All Participants:
+ok till out put of fis.read is -1
+from JIJI KOSHY to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from sardayash8308 to All Participants:
+could we edit pdf file in same waay or file with password
+from sardayash8308 to All Participants:
+file with passwrd?
+from mailmevinaya to All Participants:
+ok so the file type has to be same
+from poojakukreti406 to All Participants:
+we can copy only same type of files?
+from mailmevinaya to All Participants:
+ok 
+from sardayash8308 to All Participants:
+how to provide password?
+from Durga Prasad Gutti to All Participants:
+fis.read() method will read Byte by Byte.. that means since a character is two bytes then for reading one character fis.read() will be called twice right?
+from Durga Prasad Gutti to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ok
+from mailmevinaya to All Participants:
+yes
+from Anurag Kumar to All Participants:
+typecast
+from mailmevinaya to All Participants:
+typecast
+from Jagrut Goenka to All Participants:
+typecasting
+from Daniel Malkowski to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jeevanantham M to All Participants:
+yes sir
+from Neelmani Verma to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+this is encoded data?
+from Durga Prasad Gutti to All Participants:
+fos.write() -- this method write every Byte into the file as soon as it's called or at the end
+from acharyapartho to All Participants:
+yes sir
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from shimpibhushan6  to All Participants:
+Yes
+from Debasish pujapanda to All Participants:
+line no 14 ??
+from poojakukreti406 to All Participants:
+for copying dff type of file we have another class?
+from mailmevinaya to All Participants:
+if its notepad this will not happen, it will display properly in console?
+from pranavmkale  to All Participants:
+is it because word uses unicode or some other encoding?
+from poojakukreti406 to All Participants:
+ok sir.
+from mailmevinaya to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Jeevanantham M to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from poojakukreti406 to All Participants:
+got it sir. thanks
+from Durga Prasad Gutti to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+line no 14
+from Jagrut Goenka to All Participants:
+yes sir
+from Anurag Kumar to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+ok sir
+from Debasish pujapanda to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+scanner
+from mailmevinaya to All Participants:
+dis
+from Durga Prasad Gutti to All Participants:
+DataInpustStream
+from Jagrut Goenka to All Participants:
+data input stream
+from pooja05 to All Participants:
+dis
+from Jeevanantham M to All Participants:
+datainputstream
+from shimpibhushan6  to All Participants:
+data input stream
+from mailmevinaya to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Jeevanantham M to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes 
+from Daniel Malkowski to All Participants:
+yes
+from poojakukreti406 to All Participants:
+In companies, when we use char wise and when do we use byte wise?
+from mailmevinaya to All Participants:
+i didnt undrstand the passing hru buffer
+from KULWINDER singh JASPAL to All Participants:
+is Filewriter or filereader different?
+from poojakukreti406 to All Participants:
+ok sir
+from KULWINDER singh JASPAL to All Participants:
+ok
+from KULWINDER singh JASPAL to All Participants:
+thanks
+from Anurag Kumar to All Participants:
+Satainputstrea,m
+from Jeevanantham M to All Participants:
+isr
+from Durga Prasad Gutti to All Participants:
+Inpustreamreader
+from Pushpa Deshpande to All Participants:
+inputstream
+from mailmevinaya to All Participants:
+data input stream
+from Raja Rajeswari Jayachandran to All Participants:
+inputstreamreader
+from Jagruti Sisodiya to All Participants:
+inputstream reader
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+ohh
+from Jagrut Goenka to All Participants:
+okk
+from Ashish Prakash Idhol to All Participants:
+so it read seially?
+from mailmevinaya to All Participants:
+ok the method is there in buffer?
+from Jagrut Goenka to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from mailmevinaya to All Participants:
+how do we know its in buffer?
+from mailmevinaya to All Participants:
+ok
+from mailmevinaya to All Participants:
+ok got it
+from Ashish Prakash Idhol to All Participants:
+if  to return char index value to used in switch case through keybord?
+from Jagrut Goenka to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from vitalrgm to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from poojakukreti406 to All Participants:
+no need of readline?
+from poojakukreti406 to All Participants:
+ok sir
+from poojakukreti406 to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes sir
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from sardayash8308 to All Participants:
+so BuffereReader requires inputreader object in constructor?
+from Jagrut Goenka to All Participants:
+sir if we use java.io.*:
+from Jagrut Goenka to All Participants:
+it will inherit all classes
+from Jagrut Goenka to All Participants:
+ok
+from KULWINDER singh JASPAL to All Participants:
+java.io will this make program slow?
+from Jagrut Goenka to All Participants:
+yes sr
+from KULWINDER singh JASPAL to All Participants:
+ok, thanks
+from mailmevinaya to All Participants:
+it can affect speed?
+from Jagrut Goenka to All Participants:
+ok sir
+from Jagrut Goenka to All Participants:
+ok sir
+from mailmevinaya to All Participants:
+thanks
+from Anurag Kumar to All Participants:
+wrapper
+from sardayash8308 to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from mailmevinaya to All Participants:
+can you pls explain line 15 agin 
+from Ashish Prakash Idhol to All Participants:
+if we have  to return char index value to used in switch case through keybord?
+from Durga Prasad Gutti to All Participants:
+yes
+from Jeevanantham M to All Participants:
+noo sir
+from Anurag Kumar to All Participants:
+can we use regex with this?
+from acharyapartho to All Participants:
+sir what is the use of syntax parseInt
+from mailmevinaya to All Participants:
+why?
+from mailmevinaya to All Participants:
+why we have to convert?
+from Anurag Kumar to All Participants:
+ok
+from mailmevinaya to All Participants:
+ok thx
+from acharyapartho to All Participants:
+ok sir
+from Jagrut Goenka to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from KEDARNATH YADAV D to All Participants:
+wraper class
+from shimpibhushan6  to All Participants:
+Yes
+from vitalrgm to All Participants:
+can we give read() method of written type int
+from Jagrut Goenka to All Participants:
+sir cant we type cast
+from KEDARNATH YADAV D to All Participants:
+Okay sir
+from Jagrut Goenka to All Participants:
+ok sir
+from Dipali Patil to All Participants:
+it is use to conver string to primitive data type only
+from Jagrut Goenka to All Participants:
+got it sir
+from Santhosh Gupta to All Participants:
+generally typecasting is done for same type...!!
+from Santhosh Gupta to All Participants:
+but not from object to primitive or viceversa
+from Dipali Patil to All Participants:
+ok
+from Anurag Kumar to All Participants:
+string
+from Santhosh Gupta to All Participants:
+string
+from sardayash8308 to All Participants:
+str
+from Santhosh Gupta to All Participants:
+yes sir.. I got it
+from Jagrut Goenka to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes sir
+from SAURABH KAWATRA to All Participants:
+yes
+from mailmevinaya to All Participants:
+so we are converting the line just before?
+from Neelmani Verma to All Participants:
+yes 
+from Dipali Patil to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+byte wie
+from Jagrut Goenka to All Participants:
+bytewise
+from mailmevinaya to All Participants:
+where can this not be used compared to byte wise?
+from mailmevinaya to All Participants:
+ok
+from Anurag Kumar to All Participants:
+maybe full path
+from Durga Prasad Gutti to All Participants:
+do we need to flush at the end
+from Jagrut Goenka to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from mailmevinaya to All Participants:
+i dont know c
+from mailmevinaya to All Participants:
+:)
+from Durga Prasad Gutti to All Participants:
+:)
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from sardayash8308 to All Participants:
+previous we had not done flush?
+from vitalrgm to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from sardayash8308 to All Participants:
+ok
+from mailmevinaya to All Participants:
+why we gave to clear buffer ? the use of flush?
+from mailmevinaya to All Participants:
+ok thx
+from Raja Rajeswari Jayachandran to All Participants:
+char wise read 2 bytes per time and we are checking only one byte each time in the while loop. Right?
+from Raja Rajeswari Jayachandran to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+having doubts in string matching sir, if at the end if you have time, tell little about string matching
+from Anurag Kumar to All Participants:
+do we walso have to close the file?
+from Anurag Kumar to All Participants:
+ok
+from Anurag Kumar to All Participants:
+thanks
+from Durga Prasad Gutti to All Participants:
+ok
+from Anurag Kumar to All Participants:
+clr
+from Daniel Malkowski to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from arun kumar bharti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from shaibaz Mohammad to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+its ok if we do other way also right?
+from SAURABH KAWATRA to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from sardayash8308 to All Participants:
+if user does not specify the extensioin?
+from Anurag Kumar to All Participants:
+ok
+from sardayash8308 to All Participants:
+and does we have to search file in subfolder also?
+from poojakukreti406 to All Participants:
+this all using file handling?
+from sardayash8308 to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from shimpibhushan6  to All Participants:
+clear
+from poojakukreti406 to All Participants:
+ok sir
+from Anurag Kumar to All Participants:
+clr
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Neelmani Verma to All Participants:
+clr
+from Jagrut Goenka to All Participants:
+ok sir
+from SAURABH KAWATRA to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+hmm
+from Anurag Kumar to All Participants:
+sir we have to do validations in the program?
+from arun kumar bharti to All Participants:
+is this oly the project that we have to submmit after phase 1?
+from pooja05 to All Participants:
+can you tell about 4 navigation
+from mailmevinaya to All Participants:
+how do we make it ascending?
+from Jagrut Goenka to All Participants:
+delete
+from pooja05 to All Participants:
+got it
+from Jagrut Goenka to All Participants:
+oksir
+from Raja Rajeswari Jayachandran to All Participants:
+For documentation, is there any format do we need follow
+from mailmevinaya to All Participants:
+how do we make it ascending?
+from SAURABH KAWATRA to All Participants:
+if we have some doubts after class can we reach you in some way sir?
+from mailmevinaya to All Participants:
+ok
+from Daniel Malkowski to All Participants:
+how much time we have for that ? 
+from SAURABH KAWATRA to All Participants:
+ok sir!
+from KULWINDER singh JASPAL to All Participants:
+so, about one week
+from Daniel Malkowski to All Participants:
+ok sir
+from Jagrut Goenka to All Participants:
+sir this is the project
+from Jeevanantham M to All Participants:
+how to submit my work?
+from Jeevanantham M to All Participants:
+kkk sir
+from poojakukreti406 to All Participants:
+sir creating file in current location and searching in current location ?
+from shimpibhushan6  to All Participants:
+will it work on console right?
+from Nivrutti Shalik Patil to All Participants:
+asc order of file based on file name or datetime as file created
+from Nivrutti Shalik Patil to All Participants:
+ok
+from arun kumar bharti to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+can we use other classes as well right?
+from Anurag Kumar to All Participants:
+dir
+from Jagrut Goenka to All Participants:
+this class can be used to searcch file
+from Durga Prasad Gutti to All Participants:
+Directory
+from SAURABH KAWATRA to All Participants:
+directory
+from SAURABH KAWATRA to All Participants:
+true
+from Jagrut Goenka to All Participants:
+ok sir
+from shimpibhushan6  to All Participants:
+it will help for searcha s well
+from poojakukreti406 to All Participants:
+not current location?
+from Durga Prasad Gutti to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ok sir
+from Anurag Kumar to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes we will
+from shimpibhushan6  to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+and then we have to push it to github 
+from Durga Prasad Gutti to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from ARUN babu to All Participants:
+yes
+from shimpibhushan6  to All Participants:
+yup
+from Daniel Malkowski to All Participants:
+ok sir
+from Raja Rajeswari Jayachandran to All Participants:
+For documentation, is there any format do we need follow
+from shimpibhushan6  to All Participants:
+what's bout sprint
+from Raja Rajeswari Jayachandran to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+daily meeting
+from shimpibhushan6  to All Participants:
+Yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+sir do we need to perform all of em
+from Naveen P to All Participants:
+yes
+from shimpibhushan6  to All Participants:
+so do we need to push daily? in sprints?
+from Ashish Prakash Idhol to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+we can other functionalities as well right?
+from SAURABH KAWATRA to All Participants:
+add
+from shimpibhushan6  to All Participants:
+ok thanks
+from Naveen P to All Participants:
+ok sir
+from Jagrut Goenka to All Participants:
+ok sir
+from Jagrut Goenka to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes sir
+from shimpibhushan6  to All Participants:
+Yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from Naveen P to All Participants:
+yes 
+from Daniel Malkowski to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from vitalrgm to All Participants:
+yes
+from arun kumar bharti to All Participants:
+okey
+from Daniel Malkowski to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+getter setter
+from Durga Prasad Gutti to All Participants:
+yes getter setters 
+from Raja Rajeswari Jayachandran to All Participants:
+getter and setter
+from Durga Prasad Gutti to All Participants:
+private varables
+from Ashish Prakash Idhol to All Participants:
+used public always
+from shimpibhushan6  to All Participants:
+public methods
+from Anurag Kumar to All Participants:
+clr
+from Durga Prasad Gutti to All Participants:
+clear
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+clear
+from Dipali Patil to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+clr
+from Jagrut Goenka to All Participants:
+yes
+from Jeevanantham M to All Participants:
+clear
+from Ashish Prakash Idhol to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+ clear
+from Jagruti Sisodiya to All Participants:
+yes
+from mailmevinaya to All Participants:
+canu show that again
+from arun kumar bharti to All Participants:
+clr
+from mailmevinaya to All Participants:
+thx
+from mailmevinaya to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+Yes
+from SAURABH KAWATRA to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Anurag Kumar to All Participants:
+clr
+from acharyapartho to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from poojakukreti406 to All Participants:
+oj class?
+from poojakukreti406 to All Participants:
+obj
+from Durga Prasad Gutti to All Participants:
+Object
+from mailmevinaya to All Participants:
+super
+from Jagruti Sisodiya to All Participants:
+obj
+from Daniel Malkowski to All Participants:
+yes
+from Anurag Kumar to All Participants:
+clr
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes 
+from Dipali Patil to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Anurag Kumar to All Participants:
+clr
+from acharyapartho to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from sardayash8308 to All Participants:
+clr
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+clr
+from Durga Prasad Gutti to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+ok
+from Daniel Malkowski to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from poojakukreti406 to All Participants:
+in case of serialization memory will not be created?
+from poojakukreti406 to All Participants:
+ok sir.
+from mailmevinaya to All Participants:
+cant see screen?
+from mailmevinaya to All Participants:
+sorry ok now
+from Durga Prasad Gutti to All Participants:
+o
+from Daniel Malkowski to All Participants:
+0
+from Durga Prasad Gutti to All Participants:
+no
+from pooja05 to All Participants:
+no
+from Anurag Kumar to All Participants:
+no
+from Nivrutti Shalik Patil to All Participants:
+0
+from SAURABH KAWATRA to All Participants:
+no
+from Jagrut Goenka to All Participants:
+no
+from Raja Rajeswari Jayachandran to All Participants:
+run
+from Raja Rajeswari Jayachandran to All Participants:
+1
+from Ashish Prakash Idhol to All Participants:
+ single
+from Anurag Kumar to All Participants:
+1
+from mailmevinaya to All Participants:
+run
+from pranavmkale  to All Participants:
+1
+from Jagrut Goenka to All Participants:
+run
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from pranavmkale  to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+no
+from mailmevinaya to All Participants:
+no
+from mailmevinaya to All Participants:
+so its empty class?
+from mailmevinaya to All Participants:
+ok
+from Nivrutti Shalik Patil to All Participants:
+byte
+from Durga Prasad Gutti to All Participants:
+Byte
+from mailmevinaya to All Participants:
+byte
+from Raja Rajeswari Jayachandran to All Participants:
+byte
+from Ashish Prakash Idhol to All Participants:
+bytewise
+from Jagrut Goenka to All Participants:
+byte
+from Dipali Patil to All Participants:
+byte
+from SAURABH KAWATRA to All Participants:
+byte
+from sardayash8308 to All Participants:
+we could write fos.write()
+from mailmevinaya to All Participants:
+what are we storing in file
+from Jagrut Goenka to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+line 19?
+from Jagrut Goenka to All Participants:
+but its a random file u store data in
+from KULWINDER singh JASPAL to All Participants:
+creae a txt file
+from poojakukreti406 to All Participants:
+createfile
+from Debasish pujapanda to All Participants:
+help to store file
+from sardayash8308 to All Participants:
+create fiuile
+from Pushpa Deshpande to All Participants:
+create new file
+from mailmevinaya to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+create the file
+from Durga Prasad Gutti to All Participants:
+no
+from Raja Rajeswari Jayachandran to All Participants:
+no
+from Anurag Kumar to All Participants:
+no
+from sharathadm97@gmail.com to All Participants:
+no
+from Jagrut Goenka to All Participants:
+no
+from mailmevinaya to All Participants:
+no
+from Raja Rajeswari Jayachandran to All Participants:
+object
+from Jeevanantham M to All Participants:
+object
+from KULWINDER singh JASPAL to All Participants:
+object
+from sardayash8308 to All Participants:
+object
+from Jagrut Goenka to All Participants:
+object
+from sardayash8308 to All Participants:
+oos
+from Jeevanantham M to All Participants:
+oos
+from poojakukreti406 to All Participants:
+we are doing type castng?
+from poojakukreti406 to All Participants:
+ok
+from Anurag Kumar to All Participants:
+for
+from sardayash8308 to All Participants:
+could you show emp.txt/
+from Anurag Kumar to All Participants:
+fos
+from Durga Prasad Gutti to All Participants:
+fos
+from Raja Rajeswari Jayachandran to All Participants:
+fileoutput
+from JIJI KOSHY to All Participants:
+17
+from pooja05 to All Participants:
+17
+from Jagrut Goenka to All Participants:
+fos
+from mailmevinaya to All Participants:
+file output
+from SAURABH KAWATRA to All Participants:
+fileoutstream
+from Anurag Kumar to All Participants:
+clr
+from Durga Prasad Gutti to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes sir
+from Jeevanantham M to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from pooja05 to All Participants:
+yes
+from sardayash8308 to All Participants:
+could you show wmp.txt
+from mailmevinaya to All Participants:
+ok using 2 classes to do th e work
+from Debasish pujapanda to All Participants:
+but line 19 ??
+from Dipali Patil to All Participants:
+can u reapet plz
+from Debasish pujapanda to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Anurag Kumar to All Participants:
+clr
+from SAURABH KAWATRA to All Participants:
+which line object gets destroyed ?
+from Debasish pujapanda to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+clr
+from SAURABH KAWATRA to All Participants:
+ok
+from mailmevinaya to All Participants:
+so all the values in emp1 will be stored in emp.txt
+from Nivrutti Shalik Patil to All Participants:
+line no 9
+from Jagrut Goenka to All Participants:
+its like object reusability
+from Jagrut Goenka to All Participants:
+ok
+from Jagruti Sisodiya to All Participants:
+new employ info can be stored in same file emp.txt emp2.
+from Anurag Kumar to All Participants:
+where have we used marker interface
+from Durga Prasad Gutti to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from sardayash8308 to All Participants:
+could you open emp.txt
+from Anurag Kumar to All Participants:
+no
+from Durga Prasad Gutti to All Participants:
+no
+from SAURABH KAWATRA to All Participants:
+no
+from Raja Rajeswari Jayachandran to All Participants:
+no
+from Dipali Patil to All Participants:
+no
+from Daniel Malkowski to All Participants:
+no
+from acharyapartho to All Participants:
+no
+from Jagrut Goenka to All Participants:
+no
+from Nivrutti Shalik Patil to All Participants:
+no
+from Santhosh Gupta to All Participants:
+no
+from Durga Prasad Gutti to All Participants:
+hmm
+from SAURABH KAWATRA to All Participants:
+ecapsulation?
+from Durga Prasad Gutti to All Participants:
+encrypted
+from SAURABH KAWATRA to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+fileinput
+from Durga Prasad Gutti to All Participants:
+FIS
+from Nivrutti Shalik Patil to All Participants:
+fileinputstream
+from Jagrut Goenka to All Participants:
+input strem
+from Anurag Kumar to All Participants:
+fileinputstrea
+from Durga Prasad Gutti to All Participants:
+emp.txt
+from mailmevinaya to All Participants:
+so sir this process of storing is called serialization
+from Debasish pujapanda to All Participants:
+fileinpputstream
+from Jagruti Sisodiya to All Participants:
+emp.txt
+from Nivrutti Shalik Patil to All Participants:
+emp.txt
+from Raja Rajeswari Jayachandran to All Participants:
+emp.txt
+from SAURABH KAWATRA to All Participants:
+emp.txt
+from Jagrut Goenka to All Participants:
+emp.txt
+from acharyapartho to All Participants:
+emp.txt
+from Debasish pujapanda to All Participants:
+emp.txt
+from Anurag Kumar to All Participants:
+object
+from Raja Rajeswari Jayachandran to All Participants:
+object
+from Durga Prasad Gutti to All Participants:
+Employee object
+from SAURABH KAWATRA to All Participants:
+objectinput
+from Jagruti Sisodiya to All Participants:
+object
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+Employee
+from Durga Prasad Gutti to All Participants:
+Employee
+from Anurag Kumar to All Participants:
+employe
+from SAURABH KAWATRA to All Participants:
+emoloyee
+from SAURABH KAWATRA to All Participants:
+no
+from Jagrut Goenka to All Participants:
+no
+from Anurag Kumar to All Participants:
+no
+from Durga Prasad Gutti to All Participants:
+no
+from Raja Rajeswari Jayachandran to All Participants:
+no
+from Debasish pujapanda to All Participants:
+sir line no 26
+from Debasish pujapanda to All Participants:
+??
+from sardayash8308 to All Participants:
+Employee emp = (Employee)ois.readObject();
+from mailmevinaya to All Participants:
+sir before we were storing the value in file what are we doing here , gettibg the values from file?
+from Anurag Kumar to All Participants:
+for this also marker interface is mandatory?
+from Jagrut Goenka to All Participants:
+sir what it is mainly used for
+from Jagrut Goenka to All Participants:
+?
+from Durga Prasad Gutti to All Participants:
+So in this way we can only store one object in a file
+from mailmevinaya to All Participants:
+ok the stored object, serialized ones
+from sardayash8308 to All Participants:
+how to store different objects in a same file and then retriving it correctly?
+from SAURABH KAWATRA to All Participants:
+true we can give?
+from mailmevinaya to All Participants:
+sir one more question 
+this process of storing is called serialization
+from SAURABH KAWATRA to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from acharyapartho to All Participants:
+yes sir
+from Santhosh Gupta to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from sardayash8308 to All Participants:
+could you show to store multiple objects?
+from Jagrut Goenka to All Participants:
+byte stream
+from mailmevinaya to All Participants:
+why dont we simply call it storing? :)
+from mailmevinaya to All Participants:
+instead of serialization..
+from SAURABH KAWATRA to All Participants:
+yes
+from mailmevinaya to All Participants:
+why dont we simply call it storing? :) nstead of serializatio
+from Durga Prasad Gutti to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+Ys
+from Durga Prasad Gutti to All Participants:
+no
+from Raja Rajeswari Jayachandran to All Participants:
+no
+from SAURABH KAWATRA to All Participants:
+no
+from Jagrut Goenka to All Participants:
+okkkk got it
+from SAURABH KAWATRA to All Participants:
+clear
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes..got it
+from Nivrutti Shalik Patil to All Participants:
+yes
+from mailmevinaya to All Participants:
+where is this file stored?
+from mailmevinaya to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+efficient method to minimize memory usage
+from acharyapartho to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+sir while we share the code we need to send the external file too
+from Jagrut Goenka to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+ok
+from Anurag Kumar to All Participants:
+can we store such object files in database?
+from mailmevinaya to All Participants:
+only values can be stored in thi right? like name or numbers?
+from Anurag Kumar to All Participants:
+ok
+from Raja Rajeswari Jayachandran to All Participants:
+variable'
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+variables
+from mailmevinaya to All Participants:
+yes
+from shaibaz Mohammad to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+method
+from Anurag Kumar to All Participants:
+methods
+from Durga Prasad Gutti to All Participants:
+methods
+from SAURABH KAWATRA to All Participants:
+methods
+from Jagruti Sisodiya to All Participants:
+method
+from shaibaz Mohammad to All Participants:
+method
+from Anurag Kumar to All Participants:
+no of onbject
+from SAURABH KAWATRA to All Participants:
+values
+from SAURABH KAWATRA to All Participants:
+ok
+from mailmevinaya to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Anurag Kumar to All Participants:
+okk
+from Daniel Malkowski to All Participants:
+name of the object
+from malhoura@hawk.iit.edu to All Participants:
+Id in the db
+from Raja Rajeswari Jayachandran to All Participants:
+property
+from mailmevinaya to All Participants:
+identity
+from Durga Prasad Gutti to All Participants:
+property
+from mailmevinaya to All Participants:
+prpprty
+from Raja Rajeswari Jayachandran to All Participants:
+emp
+from Durga Prasad Gutti to All Participants:
+emp
+from Durga Prasad Gutti to All Participants:
+yes 
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+clear
+from mailmevinaya to All Participants:
+variables
+from SAURABH KAWATRA to All Participants:
+Doubt in buffered...if we close the buffer in between the program it always throw exception after re opening
+from Santhosh Gupta to All Participants:
+yes and clear
+from Ashish Prakash Idhol to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+sure
+from Jeevanantham M to All Participants:
+yes sir
+from JIJI KOSHY to All Participants:
+yes
+from Anurag Kumar to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+why there is no method in serializable
+from mailmevinaya to All Participants:
+ok
+from pranavmkale  to All Participants:
+clear
+from mailmevinaya to All Participants:
+can nay other class call this stored list?
+from Raja Rajeswari Jayachandran to All Participants:
+exception
+from Jagrut Goenka to All Participants:
+exception
+from Anurag Kumar to All Participants:
+clr
+from Jagrut Goenka to All Participants:
+yes sir
+from Daniel Malkowski to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from mailmevinaya to All Participants:
+can any other class call this stored list?
+from Jagrut Goenka to All Participants:
+thank you sir
+from Sankari.s  to All Participants:
+can u repeat one sir
+from Anurag Kumar to All Participants:
+can we also create marker interfaceS?
+from mailmevinaya to All Participants:
+ok
+from Anurag Kumar to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+brand
+from mailmevinaya to All Participants:
+so sir who all can do desearialization? 
+from Jagrut Goenka to All Participants:
+yes sir
+from Daniel Malkowski to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes go tthat but who all can do this deserialization 
+from SAURABH KAWATRA to All Participants:
+clear
+from Debasish pujapanda to All Participants:
+yes
+from Sankari.s  to All Participants:
+what is deserilazation
+from mailmevinaya to All Participants:
+sir i got the concept , but my question was who call have access to this deserialized file
+from mailmevinaya to All Participants:
+so same program has to do it?
+from mailmevinaya to All Participants:
+ok
+from Nivrutti Shalik Patil to All Participants:
+can it be possible to write multiple object in single file
+from Nivrutti Shalik Patil to All Participants:
+ok sir
+from SAURABH KAWATRA to All Participants:
+Doubt in buffered...if we close the buffer in between the program it always throw exception after re opening
+from SAURABH KAWATRA to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes si
+from Jagrut Goenka to All Participants:
+sir
+from Ashish Prakash Idhol to All Participants:
+ok
+from Daniel Malkowski to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes sir
+from SAURABH KAWATRA to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+clear
+from Pushpa Deshpande to All Participants:
+Yes
+from vitalrgm to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+good
+from SAURABH KAWATRA to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+good
+from pooja05 to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+clear and speed is fine
+from SAURABH KAWATRA to All Participants:
+ok
+from Cleber Miranda Barbosa to All Participants:
+What is the link for your git..?
+from Jagrut Goenka to All Participants:
+ok sir
+from Daniel Malkowski to All Participants:
+Cleber just go to the folder and do git pull 
+from Simplilearn Get Certified Get Ahead to All Participants:
+9.30pm IST we will resume - Akash
+from Jagrut Goenka to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from arun kumar bharti to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+yes
+from Nivrutti Shalik Patil to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+sort by filename right and not file size ?
+from sharathadm97@gmail.com to All Participants:
+Thanks
+from sharathadm97@gmail.com to All Participants:
+clear for me
+from Debasish pujapanda to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+clear
+from Akter Zaman to All Attendees:
+yes
+from Daniel Malkowski to All Participants:
+clr
+from Neelmani Verma to All Participants:
+clr
+from ARUN babu to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from poojakukreti406 to All Participants:
+where do we apply data struct?
+from Jeevanantham M to All Participants:
+what is time complexity
+from sardayash8308 to All Participants:
+clr
+from mailmevinaya to All Participants:
+what are these difeerent sort?
+from poojakukreti406 to All Participants:
+we use all these techniques in aplln development??
+from poojakukreti406 to All Participants:
+so depending upon proj we need to apply c or java data structures?
+from poojakukreti406 to All Participants:
+ok sir.
+from Anurag Kumar to All Participants:
+clr
+from Debasish pujapanda to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from mailmevinaya to All Participants:
+so in this example which will be out first
+from poojakukreti406 to All Participants:
+java has predefined method means we are not doing deep dive?
+from mailmevinaya to All Participants:
+ok thx
+from mailmevinaya to All Participants:
+FILO
+from poojakukreti406 to All Participants:
+ok sir.
+from Jagrut Goenka to All Participants:
+sir it could be the case if we use one sorting technique in 1 language the same sorting techinque need more time in another language
+from mailmevinaya to All Participants:
+thx
+from Debasish pujapanda to All Participants:
+first in last out
+from mailmevinaya to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+same sir
+from Santhosh Gupta to All Participants:
+first in last out\
+from Debasish pujapanda to All Participants:
+i got confused between them
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from mailmevinaya to All Participants:
+sir this is possible in all java class right 
+from Anurag Kumar to All Participants:
+what is top most meaning?
+from poojakukreti406 to All Participants:
+implemented class?
+from Anurag Kumar to All Participants:
+in the framework collection
+from mailmevinaya to All Participants:
+and this extended to all classes ?
+from Anurag Kumar to All Participants:
+ok
+from poojakukreti406 to All Participants:
+ok sir.
+from Anurag Kumar to All Participants:
+ there are only 4??
+from Anurag Kumar to All Participants:
+ok
+from mailmevinaya to All Participants:
+and this is extended to all java classes ?
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Jagruti Sisodiya to All Participants:
+yes
+from mailmevinaya to All Participants:
+and this is extended to all java classes ?
+from Durga Prasad Gutti to All Participants:
+ok
+from Anurag Kumar to All Participants:
+ok
+from poojakukreti406 to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+clr
+from Debasish pujapanda to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Neelmani Verma to All Participants:
+clr
+from Ashish Prakash Idhol to All Participants:
+yes
+from mailmevinaya to All Participants:
+ok i thought this like lang package something 
+from poojakukreti406 to All Participants:
+same as python set?
+from poojakukreti406 to All Participants:
+ok sir
+from Durga Prasad Gutti to All Participants:
+Util
+from mailmevinaya to All Participants:
+ok
+from Daniel Malkowski to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from sardayash8308 to All Participants:
+es
+from poojakukreti406 to All Participants:
+mutable?
+from poojakukreti406 to All Participants:
+of both?
+from poojakukreti406 to All Participants:
+ok sir.
+from poojakukreti406 to All Participants:
+got it
+from poojakukreti406 to All Participants:
+thank u
+from poojakukreti406 to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Nithin Kumar Palarapu to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+Yes
+from mailmevinaya to All Participants:
+like array?
+from mailmevinaya to All Participants:
+ok thx
+from Daniel Malkowski to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+yes
+from Neelmani Verma to All Participants:
+clr
+from Jagruti Sisodiya to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+clr
+from Nivrutti Shalik Patil to All Participants:
+yes
+from Jeevanantham M to All Participants:
+sir pls explain map once
+from mailmevinaya to All Participants:
+can u give an example of queue
+from Jeevanantham M to All Participants:
+kk sir
+from sharathadm97@gmail.com to All Participants:
+can keys be same ?
+from sharathadm97@gmail.com to All Participants:
+ok
+from sardayash8308 to All Participants:
+Dict like python??
+from Ashish Prakash Idhol to All Participants:
+map used hash tables?
+from mailmevinaya to All Participants:
+ok got it 
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+interface
+from JIJI KOSHY to All Participants:
+interfaces
+from Ashish Prakash Idhol to All Participants:
+yes 
+from sardayash8308 to All Participants:
+Inter
+from ARUN babu to All Participants:
+interfaces
+from Anurag Kumar to All Participants:
+ony 3 in set?
+from Anurag Kumar to All Participants:
+ok
+from sardayash8308 to All Participants:
+indirectly??
+from sardayash8308 to All Participants:
+ok
+from mailmevinaya to All Participants:
+sir can u pls explain the subdivision of sets example
+from sardayash8308 to All Participants:
+so could we make our own userdefined set class
+from mailmevinaya to All Participants:
+ok 
+from Anurag Kumar to All Participants:
+clr
+from Durga Prasad Gutti to All Participants:
+yes
+from Neelmani Verma to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from ARUN babu to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes 
+from Anurag Kumar to All Participants:
+array and arraylist is different?
+from Anurag Kumar to All Participants:
+ok
+from sardayash8308 to All Participants:
+diff betn arraylist and linkedlist??
+from sardayash8308 to All Participants:
+ok
+from Anurag Kumar to All Participants:
+we cant see saurabh questions
+from Anurag Kumar to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+sorry
+from SAURABH KAWATRA to All Participants:
+by mistake 
+from Anurag Kumar to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Akter Zaman to All Attendees:
+yes
+from Jagrut Goenka to All Participants:
+non
+from Dipali Patil to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+ok
+from arun kumar bharti to All Participants:
+and pls how with codes sir
+from poojakukreti406 to All Participants:
+is this the last topic?
+from arun kumar bharti to All Participants:
+show*
+from poojakukreti406 to All Participants:
+asking abt topic
+from Anurag Kumar to All Participants:
+will you teach big o notation ?
+from poojakukreti406 to All Participants:
+bcz u told that u will cover java 8 new features
+from Anurag Kumar to All Participants:
+never got understood
+from Ashish Prakash Idhol to All Participants:
+algorithm concepts
+from poojakukreti406 to All Participants:
+ok sir. thanks
+from Anurag Kumar to All Participants:
+thanks
+from Ashish Prakash Idhol to All Participants:
+yes
+from Anurag Kumar to All Participants:
+it has to be wrapper
+from Anurag Kumar to All Participants:
+ok
+from Anurag Kumar to All Participants:
+yes
+from sardayash8308 to All Participants:
+could we give <Integer,String>
+from Daniel Malkowski to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Santhosh Gupta to All Participants:
+yes
+from mailmevinaya to All Participants:
+but ravi is not an interger
+from mailmevinaya to All Participants:
+ok thx
+from SAURABH KAWATRA to All Participants:
+hs1 will contain multiple integers?
+from Daniel Malkowski to All Participants:
+int
+from Anurag Kumar to All Participants:
+inter
+from arun kumar bharti to All Participants:
+int
+from Durga Prasad Gutti to All Participants:
+integer
+from mailmevinaya to All Participants:
+integer
+from sardayash8308 to All Participants:
+what is generic data type
+from Jagrut Goenka to All Participants:
+sir but we dont need to extendd collection interface
+from Anurag Kumar to All Participants:
+Set
+from Durga Prasad Gutti to All Participants:
+Set
+from Jagrut Goenka to All Participants:
+set
+from Raja Rajeswari Jayachandran to All Participants:
+colection
+from mailmevinaya to All Participants:
+in real time what is the use of this ?
+from Jagrut Goenka to All Participants:
+ok sir
+from Debasish pujapanda to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+how many values can you set in hs1?
+from mailmevinaya to All Participants:
+ok 
+from Anurag Kumar to All Participants:
+it cant have duplicate
+from SAURABH KAWATRA to All Participants:
+ok
+from Raja Rajeswari Jayachandran to All Participants:
+integer
+from mailmevinaya to All Participants:
+integer
+from Durga Prasad Gutti to All Participants:
+Integers
+from Jagrut Goenka to All Participants:
+integer
+from Jagrut Goenka to All Participants:
+yes
+from Anurag Kumar to All Participants:
+we dont need loop
+from mailmevinaya to All Participants:
+ok it will display in brackets 
+from poojakukreti406 to All Participants:
+how to check if it is hashset?
+from poojakukreti406 to All Participants:
+like it could be array.
+from Anurag Kumar to All Participants:
+you have used duplicates
+from sardayash8308 to All Participants:
+could we add long in hs
+from Anurag Kumar to All Participants:
+has1
+from Anurag Kumar to All Participants:
+hs1
+from Anurag Kumar to All Participants:
+ok
+from Anurag Kumar to All Participants:
+400 400
+from sardayash8308 to All Participants:
+what if generic is float then could we add int
+from Anurag Kumar to All Participants:
+and sets are underdered
+from Anurag Kumar to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ookkkk
+from JIJI KOSHY to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+clr
+from mailmevinaya to All Participants:
+so th order of output is not same as input order
+from mailmevinaya to All Participants:
+ok
+from Anurag Kumar to All Participants:
+ye
+from mailmevinaya to All Participants:
+sure
+from Jagrut Goenka to All Participants:
+yes
+from Dipali Patil to All Participants:
+ok
+from Anurag Kumar to All Participants:
+s
+from SAURABH KAWATRA to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+0
+from Raja Rajeswari Jayachandran to All Participants:
+0
+from sharathadm97@gmail.com to All Participants:
+0
+from Jagrut Goenka to All Participants:
+0
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+true
+from Anurag Kumar to All Participants:
+ye
+from SAURABH KAWATRA to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+4
+from Anurag Kumar to All Participants:
+5
+from Anurag Kumar to All Participants:
+4
+from SAURABH KAWATRA to All Participants:
+4
+from Jagrut Goenka to All Participants:
+4
+from Jagruti Sisodiya to All Participants:
+4
+from Anurag Kumar to All Participants:
+4
+from sharathadm97@gmail.com to All Participants:
+4
+from mailmevinaya to All Participants:
+4
+from JIJI KOSHY to All Participants:
+4
+from Durga Prasad Gutti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Anurag Kumar to All Participants:
+no
+from Jagrut Goenka to All Participants:
+no
+from Jagrut Goenka to All Participants:
+yes
+from Anurag Kumar to All Participants:
+ok
+from mailmevinaya to All Participants:
+can we store text files also like this 
+from mailmevinaya to All Participants:
+ok
+from mailmevinaya to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from Anurag Kumar to All Participants:
+clr
+from mailmevinaya to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+can we run a loop for hs?
+from SAURABH KAWATRA to All Participants:
+ok
+from Jagruti Sisodiya to All Participants:
+in this we can get the position of element like aray
+from Jagruti Sisodiya to All Participants:
+ok
+from sardayash8308 to All Participants:
+what if we want to get or remove element from middle
+from poojakukreti406 to All Participants:
+but sir u said hashset is not ordered.
+from Anurag Kumar to All Participants:
+these are the only methods for hashset
+from poojakukreti406 to All Participants:
+can we get index?
+from sardayash8308 to All Participants:
+no means we dont know value we know index to remove element then how could we remove?
+from poojakukreti406 to All Participants:
+ok sir.
+from Anurag Kumar to All Participants:
+clr
+from Ashish Prakash Idhol to All Participants:
+can we combine two seprate sets?
+from Dipali Patil to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+clear
+from Debasish pujapanda to All Participants:
+ys
+from Raja Rajeswari Jayachandran to All Participants:
+clear
+from acharyapartho to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+ok
+from pranavmkale  to All Participants:
+can we convert set into list
+from pranavmkale  to All Participants:
+ok
+from Anurag Kumar to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Pushpa Deshpande to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+ok
+from Anurag Kumar to All Participants:
+ok
+from mailmevinaya to All Participants:
+sohow does it know when to stop the for loop
+from mailmevinaya to All Participants:
+so how
+from mailmevinaya to All Participants:
+ok
+from Dipali Patil to All Participants:
+hs is like array
+from Dipali Patil to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from Anurag Kumar to All Participants:
+yes
+from Debasish pujapanda to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Durga Prasad Gutti to All Participants:
+yes
+from sardayash8308 to All Participants:
+what if  hs generic data type is not specified then how to iterate a loop?
+from sardayash8308 to All Participants:
+what if it is not specified
+from poojakukreti406 to All Participants:
+ok
+from poojakukreti406 to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+for each is much easier
+from sardayash8308 to All Participants:
+what if we not given <String> to hs and hs contain int and string then how to iterate loop?
+from Jagrut Goenka to All Participants:
+okk
+from sardayash8308 to All Participants:
+ok
+from Anurag Kumar to All Participants:
+object
+from SAURABH KAWATRA to All Participants:
+object
+from poojakukreti406 to All Participants:
+object 
+from Anurag Kumar to All Participants:
+clr
+from Raja Rajeswari Jayachandran to All Participants:
+yes
+from mailmevinaya to All Participants:
+where is the incrementor here?
+from Jagrut Goenka to All Participants:
+yes
+from sardayash8308 to All Participants:
+clr
+from Anurag Kumar to All Participants:
+String
+from mailmevinaya to All Participants:
+ok got it
+from SAURABH KAWATRA to All Participants:
+in notes also sir pls
+from Jagrut Goenka to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+sir take some sets basic operations in same example like union
+from Anurag Kumar to All Participants:
+clr
+from Daniel Malkowski to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+clear
+from Raja Rajeswari Jayachandran to All Participants:
+clr
+from mailmevinaya to All Participants:
+so sir just clarify, for this , its like build in  iteration method?
+from Santhosh Gupta to All Participants:
+yes
+from mailmevinaya to All Participants:
+ok thx
+from Ashish Prakash Idhol to All Participants:
+union intersection oper ex
+from Anurag Kumar to All Participants:
+iterator is for String only
+from Anurag Kumar to All Participants:
+?
+from Anurag Kumar to All Participants:
+ok
+from vitalrgm to All Participants:
+linkedhashset
+from Anurag Kumar to All Participants:
+ok
+from Ashish Prakash Idhol to All Participants:
+basic set operation sir
+from Ashish Prakash Idhol to All Participants:
+but intersection aso possible if integer set
+from Ashish Prakash Idhol to All Participants:
+intersection sir not insertion
+from Ashish Prakash Idhol to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+h3 = h2+h1 for hashset will do what?
+from SAURABH KAWATRA to All Participants:
+ok
+from SAURABH KAWATRA to All Participants:
+got it
+from SAURABH KAWATRA to All Participants:
+yeah my bad
+from Sankari.s  to All Participants:
+how to execute this one
+from Sankari.s  to All Participants:
+programs sir
+from Sankari.s  to All Participants:
+ok sir
+from Sankari.s  to All Participants:
+I got it
+from SAURABH KAWATRA to All Participants:
+yes
+from arun kumar bharti to All Participants:
+yes
+from sharathadm97@gmail.com to All Participants:
+yes
+from Dipali Patil to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+no
+from arun kumar bharti to All Participants:
+same
+from arun kumar bharti to All Participants:
+yes
+from Jagrut Goenka to All Participants:
+yes
+from poojakukreti406 to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+ordered
+from poojakukreti406 to All Participants:
+order
+from Jagrut Goenka to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from sardayash8308 to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from KULWINDER singh JASPAL to All Participants:
+yes
+from acharyapartho to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from mailmevinaya to All Participants:
+does it allow duplicate?
+from Anurag Kumar to All Participants:
+this also to be access with value only?
+from mailmevinaya to All Participants:
+ok thx
+from vitalrgm to All Participants:
+treeset
+from Anurag Kumar to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+treeset
+from SAURABH KAWATRA to All Participants:
+does it keep index?
+from sardayash8308 to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+yes
+from mailmevinaya to All Participants:
+yes
+from Raja Rajeswari Jayachandran to All Participants:
+classcast
+from Jagrut Goenka to All Participants:
+classcast
+from Daniel Malkowski to All Participants:
+sorting
+from Jagrut Goenka to All Participants:
+sorting
+from Raja Rajeswari Jayachandran to All Participants:
+sorting
+from SAURABH KAWATRA to All Participants:
+sorting
+from Anurag Kumar to All Participants:
+hash set and hash table are same thing?
+from poojakukreti406 to All Participants:
+for string how does it do?
+from Anurag Kumar to All Participants:
+ok
+from sardayash8308 to All Participants:
+can we store float and int as int is easily casted to float
+from poojakukreti406 to All Participants:
+ok sir.
+from mailmevinaya to All Participants:
+but if we give the numbers as string its ok right like "40"
+from sharathadm97@gmail.com to All Participants:
+String starting with special characters ?
+from mailmevinaya to All Participants:
+ok thx
+from sharathadm97@gmail.com to All Participants:
+ok thx
+from sardayash8308 to All Participants:
+yes
+from SAURABH KAWATRA to All Participants:
+yes
+from Daniel Malkowski to All Participants:
+yes
+from JIJI KOSHY to All Participants:
+yes
+from Ashish Prakash Idhol to All Participants:
+what is enumser?
+from Sankari.s  to All Participants:
+what about to download the eclipse
+from sardayash8308 to All Participants:
+so main diff is TreeSet store data sorted 
+from Sankari.s  to All Participants:
+in desktop
+from Sankari.s  to All Participants:
+I searched
+from Nivrutti Shalik Patil to All Participants:
+push notes file
+from SAURABH KAWATRA to All Participants:
+string pattern matching
+from Sankari.s  to All Participants:
+I could not get that one
+from Anurag Kumar to All Participants:
+Sir i have some doubts from self learning
+from Sankari.s  to All Participants:
+can u send the file to drive
+from sardayash8308 to All Participants:
+sir what about assignment ?
+from Jagrut Goenka to All Participants:
+yes sir
+from Sankari.s  to All Participants:
+I could not get in that
+from Sankari.s  to All Participants:
+I missed that lot of notes
+from akash kale to All Participants:
+ https://github.com/Kaleakash/java_oops_phase1.git
+from Jeevanantham M to All Participants:
+what about documentation in project?
+from Dipali Patil to All Participants:
+sir can you help me in my assiment by screen sharing
+from Anurag Kumar to All Participants:
+do we have a finalize method also?
+
+
+
+
 hi
 
-
+from Durga Prasad Gutti to All Participants:
+fis.read() method will read Byte by Byte.. that means since a character is two bytes then for reading one character fis.read() will be called twice right?
+from Durga Prasad Gutti to All Participants:
+ok
+from Durga Prasad Gutti to All Participants:
+ok
+from Jagrut Goenka to All Participants:
+ok
 
 Ajay PC@Ajay-Desktop MINGW64 ~
 $ cd poojaworkfolder/
@@ -305,3 +3161,6 @@ $ ^C
 
 Ajay PC@Ajay-Desktop MINGW64 ~/poojaworkfolder/java (master)
 $
+what if a was private? could we still be able to change it
+from april7baby to All Participants:
+ no only thru methods
